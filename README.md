@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working Muhimma (Survey kind of web application having community and admin portals) build on Angular.
-❤️ Love creating frontend with beautiful UI libraries like MaterialUI, Ant Design, TailwindCSS, Prime NG and Styled Components to match the professional standard of UI.
+- ❤️ Love creating frontend with beautiful UI libraries like MaterialUI, Ant Design, TailwindCSS, Prime NG and Styled Components to match the professional standard of UI.
 - 🌱 I’m currently learning Mapbox, AG Grid, Pirme NG, and Highcharts.
 - 👯 I’m looking to collaborate with other Developers.
 - 💬 Reach me out with Email: alihaiderdev2646@gmail.com or Whatsapp: 0332-2401291 or Call/SMS: 0309-2422648.
