@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ali Haider</h1>
 <h3 align="center">A passionate Mean/Mern Stack Developer from karachi Pakistan</h3>
-<p>Working on React.js, Next.js, Angular, Node.js, Express.js, MongoDB, PostgreSQL, MySQL, Sequelize, Mongoose, TypeScript and React Native technologies for Web and Mobile Applications. Proficient in translating designs and wireframes into high-quality code, and writing application interface code via Javascript and Typescript, ReactJS, AngularJS, NextJS and React Native workflows. </p>
+<p>Working on React.js, Next.js, Angular, Node.js, Express.js, MongoDB, PostgreSQL, MySQL, Sequelize, Mongoose, TypeScript and React Native technologies for Web and Mobile Applications. Proficient in translating designs and wireframes into high-quality code, and writing application interface code via Javascript and Typescript, ReactJS, Angular, NextJS and React Native workflows. </p>
 
 - 🔭 I’m currently working on Muhimma (Survey kind of web application having community and admin portals) build on Angular.
 - ❤️ Really enjoy while creating frontend with beautiful UI libraries like MaterialUI, Ant Design, TailwindCSS, Prime NG and Styled Components to match the professional standard of UI.
