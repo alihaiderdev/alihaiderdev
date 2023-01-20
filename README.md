@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Mean/Mern Stack Developer from karachi Pakistan</h3>
 <p>Working on React.js, Next.js, Angular, Node.js, Express.js, MongoDB, PostgreSQL, MySQL, Sequelize, Mongoose, TypeScript and React Native technologies for Web and Mobile Applications. Proficient in translating designs and wireframes into high-quality code, and writing application interface code via Javascript and Typescript, ReactJS, AngularJS, NextJS and React Native workflows. </p>
 
-- 🔭 I’m currently working Muhimma (Survey kind of web application having community and admin portals) build on Angular.
-- ❤️ Love creating frontend with beautiful UI libraries like MaterialUI, Ant Design, TailwindCSS, Prime NG and Styled Components to match the professional standard of UI.
+- 🔭 I’m currently working on Muhimma (Survey kind of web application having community and admin portals) build on Angular.
+- ❤️ Really enjoy while creating frontend with beautiful UI libraries like MaterialUI, Ant Design, TailwindCSS, Prime NG and Styled Components to match the professional standard of UI.
 - 🌱 I’m currently learning Mapbox, AG Grid, Pirme NG, and Highcharts.
 - 👯 I’m looking to collaborate with other Developers.
 - 💬 Reach me out with Email: alihaiderdev2646@gmail.com or Whatsapp: 0332-2401291 or Call/SMS: 0309-2422648.
