@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihaiderdev)](https://github.com/alihaiderdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihaiderdev&layout=compact)](https://github.com/alihaiderdev/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,4 +41,6 @@ Here are some ideas to get you started:
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihaiderdev&" alt="alihaiderdev" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihaiderdev)](https://github.com/alihaiderdev/github-readme-stats)
 
